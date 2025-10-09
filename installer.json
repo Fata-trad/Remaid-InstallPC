@@ -1,7 +1,25 @@
 [
   {
-    "Tag": "13.0.0",
+    "Tag": "1.5",
     "Files": [
+      {
+        "Url": "AssetsFile1.zip",
+        "HashCode": "MYItlj7QgGI=",
+        "SizeFile": 1611166522,
+        "Path": ""
+      },
+      {
+        "Url": "AssetsFile2.zip",
+        "HashCode": "pWunUPeJaBQ=",
+        "SizeFile": 1694856676,
+        "Path": ""
+      },
+      {
+        "Url": "AssetsFile3.zip",
+        "HashCode": "6oRfPRLrpB0=",
+        "SizeFile": 1828133006,
+        "Path": ""
+      },
       {
         "Url": "bgimage",
         "HashCode": "8QKN7KWgolA=",
@@ -13,42 +31,6 @@
         "HashCode": "pIfiQGDP5vg=",
         "SizeFile": 1371607500,
         "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgm"
-      },
-      {
-        "Url": "bgm.manifest",
-        "HashCode": "DFBplvZzE28=",
-        "SizeFile": 19,
-        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgm.manifest"
-      },
-      {
-        "Url": "lyrics_en.manifest",
-        "HashCode": "Uf986e9GkVI=",
-        "SizeFile": 3970,
-        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/lyrics_en.manifest"
-      },
-      {
-        "Url": "lyrics_es.manifest",
-        "HashCode": "yonjkUXSDAQ=",
-        "SizeFile": 439,
-        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/lyrics_es.manifest"
-      },
-      {
-        "Url": "lyrics_fr.manifest",
-        "HashCode": "9yr0TSbwbqg=",
-        "SizeFile": 3971,
-        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/lyrics_fr.manifest"
-      },
-      {
-        "Url": "lyrics_sc",
-        "HashCode": "OKmLfDommQI=",
-        "SizeFile": 3504506,
-        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/lyrics_sc"
-      },
-      {
-        "Url": "test.zip",
-        "HashCode": "QhQkmFrmmvA=",
-        "SizeFile": 11675280,
-        "Path": ""
       }
     ]
   }
