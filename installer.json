@@ -40,9 +40,15 @@
       },
       {
         "Url": "CheckRemaid.exe",
-        "HashCode": "EPKbYxYhbBo=",
+        "HashCode": "/RH8q6o9Nr4=",
         "SizeFile": 12338684,
         "Path": "Remaid_Data/CheckRemaid.exe"
+      },
+      {
+        "Url": "AllPathFiles.txt",
+        "HashCode": "DFWyRVqNQqI=",
+        "SizeFile": 17835,
+        "Path": "Remaid_Data/AllPathFiles.txt"
       }
     ]
   }
