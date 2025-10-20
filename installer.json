@@ -31,6 +31,18 @@
         "HashCode": "pIfiQGDP5vg=",
         "SizeFile": 1371607500,
         "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgm"
+      },
+      {
+        "Url": "CheckRemaid",
+        "HashCode": "RKvexUloDbM=",
+        "SizeFile": 13840516,
+        "Path": "Remaid_Data/CheckRemaid"
+      },
+      {
+        "Url": "CheckRemaid.exe",
+        "HashCode": "EPKbYxYhbBo=",
+        "SizeFile": 12338684,
+        "Path": "Remaid_Data/CheckRemaid.exe"
       }
     ]
   }
