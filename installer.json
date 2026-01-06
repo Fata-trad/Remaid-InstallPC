@@ -1,54 +1,96 @@
 [
   {
-    "Tag": "1.5",
+    "Tag": "4.0",
     "Files": [
       {
-        "Url": "AssetsFile1.zip",
-        "HashCode": "MYItlj7QgGI=",
-        "SizeFile": 1611166522,
+        "Url": "AssetBundles.zip",
+        "HashCode": "hjA9/lURv90=",
+        "SizeFile": 2091122143,
         "Path": ""
       },
       {
-        "Url": "AssetsFile2.zip",
-        "HashCode": "pWunUPeJaBQ=",
-        "SizeFile": 1694856676,
+        "Url": "AssetBundles_001.zip",
+        "HashCode": "hBuPR9cgOeM=",
+        "SizeFile": 2053195682,
         "Path": ""
       },
       {
-        "Url": "AssetsFile3.zip",
-        "HashCode": "6oRfPRLrpB0=",
-        "SizeFile": 1828133006,
+        "Url": "AssetBundles_002.zip",
+        "HashCode": "zx3th9lcis0=",
+        "SizeFile": 1963697756,
         "Path": ""
       },
       {
-        "Url": "bgimage",
-        "HashCode": "8QKN7KWgolA=",
-        "SizeFile": 1666013532,
-        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgimage"
+        "Url": "AssetBundles_003.zip",
+        "HashCode": "LRdAvpBoqKc=",
+        "SizeFile": 1913940522,
+        "Path": ""
       },
       {
-        "Url": "bgm",
-        "HashCode": "pIfiQGDP5vg=",
-        "SizeFile": 1371607500,
-        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgm"
+        "Url": "AssetBundles_004.zip",
+        "HashCode": "PLcKHoFzyCY=",
+        "SizeFile": 2077725765,
+        "Path": ""
       },
       {
         "Url": "CheckRemaid",
-        "HashCode": "RKvexUloDbM=",
-        "SizeFile": 13840516,
+        "HashCode": "ORZ6UhliOgo=",
+        "SizeFile": 13841028,
         "Path": "Remaid_Data/CheckRemaid"
       },
       {
         "Url": "CheckRemaid.exe",
-        "HashCode": "/RH8q6o9Nr4=",
-        "SizeFile": 12338684,
+        "HashCode": "aO9HzI2oX18=",
+        "SizeFile": 12342780,
         "Path": "Remaid_Data/CheckRemaid.exe"
       },
       {
-        "Url": "AllPathFiles.txt",
-        "HashCode": "DFWyRVqNQqI=",
-        "SizeFile": 17835,
-        "Path": "Remaid_Data/AllPathFiles.txt"
+        "Url": "movie_fullHD.zip",
+        "HashCode": "tYDZDtFEV7o=",
+        "SizeFile": 2108670590,
+        "Path": ""
+      },
+      {
+        "Url": "movie_fullHD_001.zip",
+        "HashCode": "VodixRzYn\u002B4=",
+        "SizeFile": 1550274946,
+        "Path": ""
+      },
+      {
+        "Url": "movie_fullHD_002.zip",
+        "HashCode": "80dAY0WurqI=",
+        "SizeFile": 1703023068,
+        "Path": ""
+      },
+      {
+        "Url": "movie_fullHD_003.zip",
+        "HashCode": "yuOetheLn8Q=",
+        "SizeFile": 1678506079,
+        "Path": ""
+      },
+      {
+        "Url": "Remaid.exe",
+        "HashCode": "f/j\u002B\u002BcWca4g=",
+        "SizeFile": 653824,
+        "Path": "Remaid.exe"
+      },
+      {
+        "Url": "RemaidData.zip",
+        "HashCode": "L2w3hvHfNFs=",
+        "SizeFile": 1511237783,
+        "Path": ""
+      },
+      {
+        "Url": "RemaidJunc.exe",
+        "HashCode": "zhhv09bSNBA=",
+        "SizeFile": 1748817,
+        "Path": "Remaid_Data/RemaidJunc.exe"
+      },
+      {
+        "Url": "UnityCrashHandler64.exe",
+        "HashCode": "Z3BR7DdWUv0=",
+        "SizeFile": 1234568,
+        "Path": "UnityCrashHandler64.exe"
       }
     ]
   }
